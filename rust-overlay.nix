@@ -138,7 +138,7 @@ let
 
                 # Directories we are aware of, given as substitution lists
                 for paths in \
-                  "etc/bash_completion.d","share/bash_completion/completions";
+                  "etc/bash_completions.d","share/bash_completions/completions";
                   do
 
                   IFS=","
